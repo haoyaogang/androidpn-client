@@ -17,7 +17,7 @@ You can trigger notifications from the server by calling the following url
 http://yourserver:7072/notification.do?title=titlestring&message=messagestring&broadcast=Y&uri=&action=send
 
 ![Alt text](screenshots/serverform.png?raw=true "Server Form")
-![Alt text](screenshots/notification.png?raw=true "Notification")
-![Alt text](screenshots/mainactivity.png?raw=true "Application")
+![Alt text](fastlane/metadata/android/en-US/phoneScreenshots/notification.png?raw=true "Notification")
+![Alt text](fastlane/metadata/android/en-US/phoneScreenshots/mainactivity.png?raw=true "Application")
 
 Bitcoin donations 13MjTPDFQtxv1u1sWURkDduFSw97KbMfsS
